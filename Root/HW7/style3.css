@@ -5,17 +5,19 @@ h1 { font-family: Helvetica; color: #2096ba; }
 
 #RT {
   position: relative;
-  top: 25px;
+  top: 35px;
+  left: 10px
 }
 
 #RL {
   position: relative;
   left: 40px;
+  top: 25px
 }
 
 #REL {
   position: relative;
-  left: 40px;
+  left: 50px;
 }
 
 
@@ -26,4 +28,16 @@ h1 { font-family: Helvetica; color: #2096ba; }
   padding: 15px;
   width: 400px;
   height: 55px;
+}
+
+div.ab1 {
+    position: absolute;
+    left: 220px;
+    top: 200px;
+}
+
+div.ab2 {
+    position: absolute;
+    left: 120px;
+    top: 100px;
 }
