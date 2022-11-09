@@ -1,6 +1,9 @@
 
 body { font-family: Georgia; color: #C0C0C0; background-color: #f42069;}
 
+div.puppy {background-color: blue; color: darkred;}
+div.Header {background-color: darkred; color: darkslateblue;}
+
 h4 { font-family: Monospaced; color: #2096ba; }
 
 h3 { font-family: Georgia; color: #2096ba; border-style: dotted; }
