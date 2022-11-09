@@ -1,12 +1,9 @@
 
 body { font-family: Georgia; color: #C0C0C0; background-color: #f42069;}
 
-div.puppy {background-color: blue; color: darkred;}
-div.Header {background-color: darkred; color: darkslateblue;}
-div.Meme {background-color: green; color: orange;}
-
-h4 { font-family: Monospaced; color: #2096ba; }
-
-h3 { font-family: Georgia; color: #2096ba; border-style: dotted; }
-h2 { font-family: Monospaced; color: #00FFFF; }
-h4 { font-family: Brush Script MT; color: #00ff00; }
+div.puppy {background-color: blue; color: darkred; width: 120px;
+  height: 120px;}
+div.Header {background-color: darkred; color: darkslateblue; width: 120px;
+  height: 120px;}
+div.Meme {background-color: green; color: orange; width: 120px;
+  height: 120px;}
