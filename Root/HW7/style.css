@@ -5,11 +5,11 @@ div.puppy {background-color: blue; color: darkred; width: 120px;
   height: 120px; margin: 20 px; padding: 20 px; border-color: green;
   border-style: dotted;
   border-width: 5px;}
-div.Header {background-color: darkred; color: darkslateblue; width: 120px;
-  height: 120px; margin: 30 px; padding: 30 px; border-color: green;
+div.Header {background-color: darkred; color: darkslateblue; width: 520px;
+  height: 220px; margin: 30 px; padding: 30 px; border-color: green;
   border-style: double;
   border-width: 15px;}
-div.Meme {background-color: green; color: orange; width: 120px;
-  height: 120px; margin: 40 px; padding: 50 px; border-color: green;
+div.Meme {background-color: green; color: orange; width: 250px;
+  height: 250px; margin: 40 px; padding: 50 px; border-color: green;
   border-style: solid;
   border-width: 25px;}
