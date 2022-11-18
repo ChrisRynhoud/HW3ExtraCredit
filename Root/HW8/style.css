@@ -1,22 +1,22 @@
 body {
-  width: 960px;
+  width: 1000px;
   margin: 0 auto;
-  background-color: #9bcdff;
-  font-size: 20px;
-  font-family: Times, serif;
-  color: #f76011;
+  background-color: #d63900;
+  font-size: 10px;
+  font-family: Arial;
+  color: #ff4400;
 }
 
 header[role="banner"] {
-  margin-top: 20px;
-  height: 135px;
+  margin: 20px;
+  height: 100px;
   border: solid 10px white;
 }
 
 h1 {
   font-size: 60px;
   text-align: center;
-  color: #ff4ba0;
+  color: #b33000;
   text-shadow: 0 1px 1px rgba(0, 0, 0, .5);
   margin: 5px 0 0 0;
 }
@@ -24,11 +24,12 @@ h1 {
 nav {
   margin: 0 auto;
   width: 800px;
+  border: double;
+  border-radius: 100%;
 }
 
 nav ul {
   text-align: center;
-  font-family: Arial, Verdana;
   font-size: 18px;
   list-style: none;
 }
@@ -44,8 +45,8 @@ nav ul li {
 nav ul li a {
   text-decoration: none;
   padding: 5px 20px;
-  background: #ffcd9b;
-  color: #ffffff;
+  background: #ffd0bf;
+  color: #ffa280;
   text-shadow: 0 1px 1px rgba(0, 0, 0, .5);
   border: solid 4px white;
 }
@@ -53,7 +54,7 @@ nav ul li a {
 article {
   position: relative;
   top: 35px;
-  background-color: #ffcd9b;
+  background-color: #ffd0bf;
   border: double 10px white;
   text-shadow: 0 1px 1px rgba(0, 0, 0, .5);
   height: 550px;
@@ -61,7 +62,7 @@ article {
 }
 
 article h2 {
-  color: #ff4ba0;
+  color: #ffa280;
   font-size: 24px;
   line-height: 14px;
   margin: 20px 0 0 0;
@@ -75,14 +76,14 @@ article p {
 }
 
 section {
-  background-color: #9bcdff;
+  background-color: #ffd0bf;
   border: double 4px white;
   padding: 0px;
   margin: 10px 10px;
 }
 
 section h3 {
-  color: #ff4ba0;
+  color: #ffa280;
   font-size: 22px;
   line-height: 14px;
   margin: 10px 0 0 0;
@@ -91,5 +92,5 @@ section h3 {
 }
 
 section p {
-  color: #ffffff;
+  color: #ffd0bf;
   f
