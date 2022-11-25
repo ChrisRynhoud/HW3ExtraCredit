@@ -1,19 +1,25 @@
 header {
   color: #ff8c00;
-  border-radius: 20px;
+  border-radius: 75%;
   border: 5 px #b36200;
+  background-color: #00a67e;
 }
 article {
   color: #b36200;
   box-shadow: 10 px 10px #ff8c00;
+  border: 5px #00a67e;
+  background-color: #ffc680;
 }
 section {
   color: #ffe2bf;
   text-shadow: 3px 4px #b36200;
+  background-color: #00a67e;
 }
 aside {
 color: #ffc680;
+background-color: #ffe2bf;
 }
 footer {
 color: #00a67e;
+background-color: #ff8c00;
 }
