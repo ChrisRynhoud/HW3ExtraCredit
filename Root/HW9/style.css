@@ -1,12 +1,15 @@
 header {
   color: #ff8c00;
   border-radius: 20px;
+  border: 5 px #b36200;
 }
 article {
   color: #b36200;
+  box-shadow: 10 px 10px #ff8c00;
 }
 section {
   color: #ffe2bf;
+  text-shadow: 3px 4px #b36200;
 }
 aside {
 color: #ffc680;
