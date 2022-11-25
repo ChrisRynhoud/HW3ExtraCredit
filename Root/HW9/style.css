@@ -22,4 +22,6 @@ background-color: #ffe2bf;
 footer {
 color: #00a67e;
 background-color: #ff8c00;
+  transform: rotate(45deg);
+  transform-origin: 20% 40%;
 }
