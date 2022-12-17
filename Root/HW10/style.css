@@ -1,0 +1,28 @@
+
+
+@media (min-width: 940px)  {
+
+	article {
+
+		color: green;
+	}
+
+}
+
+@media(min-width: 400px) and (max-width: 600px) {
+
+	article {
+
+		color: blue;
+	}
+
+}
+
+@media print {
+
+	article {
+
+		color: yellow;
+	}
+
+}
